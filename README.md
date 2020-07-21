@@ -1,8 +1,6 @@
 ## Hi, I'm Kazuhiro Kojio! 👋
 
-<p>
-  <img width="400" align='right' src="https://github.com/kazuhirodk/kazuhirodk/blob/master/fine.gif">
-</p
+<img width="400" align='right' src="https://github.com/kazuhirodk/kazuhirodk/blob/master/fine.gif">
 
 ##### Software Engineer at [Quero Educação](https://sobre.quero.com/)
 ##### I'm currently learning:
