@@ -11,4 +11,4 @@
   - Javascript | Typescript
   - Node.js
   - Vue.js | Nuxt
-#### How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kazuhiro-kojio-0b7a13103/)
+#### How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kazuhirodk/)
