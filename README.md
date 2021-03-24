@@ -2,10 +2,9 @@
 
 <img width="400" align='right' src="https://github.com/kazuhirodk/kazuhirodk/blob/master/fine.gif">
 
-#### Software Engineer at [Quero Educação](https://sobre.quero.com/)
+#### Developer at [HeroSpark](https://herospark.com/)
 #### I'm currently learning:
   - Computing Applied to Education
-  - Functional Programming - Elixir
 #### Technologies:
   - Ruby on Rails
   - Javascript | Typescript
