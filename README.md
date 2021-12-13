@@ -2,9 +2,10 @@
 
 <img width="400" align='right' src="https://github.com/kazuhirodk/kazuhirodk/blob/master/fine.gif">
 
-#### Developer at [HeroSpark](https://herospark.com/)
+#### Software Engineer at [Nubank](https://nubank.com.br/)
 #### I'm currently learning:
   - Computing Applied to Education
+  - Clojure / Functional Programming
 #### Technologies:
   - Ruby on Rails
   - Javascript | Typescript
