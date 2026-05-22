@@ -4,9 +4,9 @@
 
 #### Software Engineer at [Nubank](https://nubank.com.br/)
 #### Technologies:
-  - Ruby on Rails
   - Clojure / Functional Programming
-  - Javascript | Typescript
+  - Datomic
+  - Ruby on Rails
   - Node.js
   - Vue.js | Nuxt
 #### How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kazuhirodk/)
